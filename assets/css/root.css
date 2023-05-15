@@ -203,10 +203,6 @@ footer div ul li a {
     animation: color-animation 3s linear infinite;
 }
 
-.btn-content::after {
-    animation: color-animation 3s linear infinite;
-}
-
 .title-word-1 {
     --text-primary-color: #2C49FE;
 }
