@@ -469,15 +469,19 @@ footer div ul li {
         display: flex;
         flex-direction: column;
     }
+
     .gap-lg-19 {
         gap: 19px;
     }
-    .pb-lg-0{
+
+    .pb-lg-0 {
         padding-bottom: 0;
     }
-.box-show {
-    max-width: 75px;
-}
+
+    .box-show {
+        max-width: 75px;
+    }
+
     .ml-5-lg {
         margin-left: 2px;
     }
@@ -580,7 +584,9 @@ footer div ul li {
         padding-left: 12px;
         padding-right: 12px;
     }
-
+.mt-md-40{
+    margin-top: 40px;
+}
     .w-md-80 {
         width: 80%;
     }
@@ -769,6 +775,7 @@ footer div ul li {
     .pt-sm-24 {
         padding-top: 24px;
     }
+
     .pb-sm-24 {
         padding-bottom: 24px;
     }
@@ -784,10 +791,11 @@ footer div ul li {
     .mt-sm-40 {
         margin-top: 40px;
     }
-        .btn-4 {
-            padding: 12px 5px;
-            border-radius: 36px;
-        }
+
+    .btn-4 {
+        padding: 12px 5px;
+        border-radius: 36px;
+    }
 
 }
 
@@ -795,16 +803,20 @@ footer div ul li {
     .inline-block-s {
         display: inline-block;
     }
-.btn-4 {
-    padding: 5px 5px;
-    border-radius: 36px;
-}
+
+    .btn-4 {
+        padding: 5px 5px;
+        border-radius: 36px;
+    }
+
     .w-s-60 {
         width: 60px;
     }
-.pt-s-0{
-    padding-top: 0;
-}
+
+    .pt-s-0 {
+        padding-top: 0;
+    }
+
     .mt-s-60 {
         margin-top: 60px;
     }
@@ -843,7 +855,8 @@ footer div ul li {
     .ml-s-80 {
         margin-left: 80px;
     }
-        .box-show {
-            max-width: 45px;
-        }
+
+    .box-show {
+        max-width: 45px;
+    }
 }

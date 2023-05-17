@@ -51,7 +51,7 @@ div ul li a {
 .page-logo span {
     font-family: var(--font-family-primary);
     color: var(--text-secondary-color);
-    font-weight: var(--font-weight-lg);
+    font-weight: var(--font-weight-xl);
     font-size: var(--fs-lg);
 }
 
@@ -176,6 +176,13 @@ footer div ul li {
     font-family: var(--font-family-primary);
     color: var(--text-white-color);
     font-weight: var(--font-weight-xl);
+}
+
+.whhite {
+    font-family: var(--font-family-primary);
+    color: var(--text-white-color);
+    font-size: var(--fs-footer-sm);
+    font-size: var(--fs-footer);
 }
 
 footer div ul li a {
